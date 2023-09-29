@@ -12,3 +12,9 @@
 # solution for x
 #
 # test case: 5, 1, 11 should give x = 2
+
+a = input("a:")
+b = input("b:")
+c = input("c:")
+x = a*x + b = c
+print(f"the value of x is {x}")
